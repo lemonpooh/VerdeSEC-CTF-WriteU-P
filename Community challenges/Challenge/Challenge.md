@@ -29,7 +29,8 @@ So, just convert the .txt file into .pdf file and open it we will reach another 
           
 command: 
 ```zip2john 9BA4.zip > hash
-john --wordlist=rockyou.txt hash```
+john --wordlist=rockyou.txt hash
+```
 
 After we brute force we open the file with the password we will get the flag. But so sorry in this chall we dont have flag inside and the prize has been given out to the 1st solver. HAHA
           
