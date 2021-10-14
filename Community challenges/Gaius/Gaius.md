@@ -1,7 +1,7 @@
 # VerdeSEC CommChallenges
 ## Gaius 
->Description: I had rather be first in a village than second at Rome.`
->Flag format: verdesec{XXX}
+> Description: I had rather be first in a village than second at Rome.
+> Flag format: verdesec{XXX}
 
  
 From the description, we can simply google the quote. And we can know that it is relate to caeser cipher.
