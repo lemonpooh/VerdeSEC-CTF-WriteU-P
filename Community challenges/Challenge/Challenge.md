@@ -29,7 +29,8 @@ So, just convert the .txt file into .pdf file and open it we will reach another 
           
 command:
 
-```zip2john 9BA4.zip > hash
+```
+zip2john 9BA4.zip > hash
 john --wordlist=rockyou.txt hash
 ```
 
