@@ -6,7 +6,7 @@
 
 3rd step: decrypt the file with the key by using the command bellow. but doing script kiddie was not a right way to solve, understand the AES encryption concept and the uses of the command will helps to understand better.
 
-_command:_ 
+**command:**
 ```
 openssl enc -d -aes-256-cbc -in flag.enc -out file.txt -pass file:key.bin
 ```
@@ -31,7 +31,7 @@ So, just convert the .txt file into .pdf file and open it we will reach another 
 3rd step: we know that hints2 was mentioning "rockyou" term, that means we should brute force the ziip file.
           we can use JohnTheRipper tools to do bruteforce. 
           
-_command:_
+**command:**
 
 ```
 zip2john 9BA4.zip > hash
