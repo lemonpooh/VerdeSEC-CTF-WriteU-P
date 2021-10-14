@@ -5,7 +5,10 @@
 2nd step: check the hints 1, the image combine we can guess that is `aes-256-cbc` encryption
 
 3rd step: decrypt the file with the key by using the command bellow. but doing script kiddie was not a right way to solve, understand the AES encryption concept and the uses of the command will helps to understand better.
-> command: `openssl enc -d -aes-256-cbc -in flag.enc -out file.txt -pass file:key.bin`
+command: 
+```
+openssl enc -d -aes-256-cbc -in flag.enc -out file.txt -pass file:key.bin
+```
 
 Some link to understand OpenSSL command: 
 > https://raymii.org/s/tutorials/Encrypt_and_decrypt_files_to_public_keys_via_the_OpenSSL_Command_Line.html
