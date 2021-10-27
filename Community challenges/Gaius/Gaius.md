@@ -4,7 +4,7 @@
 >
 > Flag format: verdesec{XXX}
 
- 
+First, change the .exe file to .txt file. 
 From the description, we can simply google the quote. And we can know that it is relate to caeser cipher.
 But sadly it is not relate to caeser cipher i guess due to the encoded flag are involved with some special characters. AHAHAHAHA
 Then i giveup and ask for the solutions.
