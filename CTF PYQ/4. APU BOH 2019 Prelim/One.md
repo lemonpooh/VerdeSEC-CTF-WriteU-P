@@ -12,3 +12,5 @@
 And the `flag.txt` was truely a trash. haha
 
 3rd step: so after we throw every 2 characters away and keep every 3rd character. we got flag!
+
+Flag is hidden here: `a}yp0{udobnxozwhq923401617999#{}[U&A_'%s7d0*3_!~p9`@von^?d<oA>.I2Z}` 
